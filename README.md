@@ -1,19 +1,32 @@
-# Searching and Sorting Algorithms in Python
+<h1 align="center">🔍 Searching & Sorting Algorithms in Python</h1>
 
-Welcome to the **Searching and Sorting** repository by Tarun!  
-This project contains clean and well-documented implementations of classic searching and sorting algorithms using Python. It's ideal for beginners who want to learn the fundamentals of data structures and algorithms.
+<p align="center">
+    A beginner-friendly repo covering classic 🔎 searching and 🔁 sorting algorithms implemented in Python 🐍
+</p>
 
-## 📌 Features
+<p align="center">
+    <img src="https://img.shields.io/github/license/your-username/searching-and-sorting" alt="License">
+    <img src="https://img.shields.io/badge/Made%20with-Python-3776AB?logo=python&logoColor=white" alt="Python">
+    <img src="https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg" alt="Contributions">
+</p>
 
-- 🔍 Linear Search
-- 🔎 Binary Search
-- 🔁 Bubble Sort
-- ⏳ (More algorithms to be added soon...)
+---
 
-Each algorithm includes:
-- Clear Python implementation
-- Time and space complexity
-- Inline comments for better understanding
+## ✨ What's Inside?
 
-## 📂 Directory Structure
+| 🔍 Searching | 🔁 Sorting |
+|--------------|------------|
+| ✅ Linear Search | ✅ Bubble Sort |
+| ✅ Binary Search | ⏳ More Coming Soon... |
 
+---
+
+## 📁 Project Structure
+
+```bash
+searching-and-sorting/
+├── linear_search.py        # Linear Search Algorithm
+├── binary_search.py        # Binary Search Algorithm
+├── bubble_sort.py          # Bubble Sort Algorithm
+├── README.md               # This beautiful file
+└── LICENSE                 # MIT License
